@@ -1,0 +1,15 @@
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\bin\Debug\net6.0\CityEventsAPI.Application.deps.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\bin\Debug\net6.0\CityEventsAPI.Application.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\bin\Debug\net6.0\CityEventsAPI.Application.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\bin\Debug\net6.0\CityEventsAPI.Domain.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\bin\Debug\net6.0\CityEventsAPI.Domain.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\obj\Debug\net6.0\CityEventsAPI.Application.csproj.AssemblyReference.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\obj\Debug\net6.0\CityEventsAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\obj\Debug\net6.0\CityEventsAPI.Application.AssemblyInfoInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\obj\Debug\net6.0\CityEventsAPI.Application.AssemblyInfo.cs
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\obj\Debug\net6.0\CityEventsAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\obj\Debug\net6.0\CityEventsAPI.Application.csproj.CopyComplete
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\obj\Debug\net6.0\CityEventsAPI.Application.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\obj\Debug\net6.0\refint\CityEventsAPI.Application.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\obj\Debug\net6.0\CityEventsAPI.Application.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Application\obj\Debug\net6.0\ref\CityEventsAPI.Application.dll

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityEventsAPI.Domain", "CityEventsAPI.Domain\CityEventsAPI.Domain.csproj", "{D4FEB466-691B-4D0F-8F72-0876B77911CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityEventsAPI.Infra.Data", "CityEventsAPI.Infra.Data\CityEventsAPI.Infra.Data.csproj", "{C50B6EC7-E96C-45BA-B31C-2EFA68AA6AE6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityEventsAPI.Infra.IoC", "CityEventsAPI.Infra.IoC\CityEventsAPI.Infra.IoC.csproj", "{ED5AF4C3-785A-4CA3-9D4E-6E0814334A85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityEventsAPI.Application", "CityEventsAPI.Application\CityEventsAPI.Application.csproj", "{4B3A613D-28CE-42F4-B593-5C5BFEB6A7A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityEventsAPI.API", "CityEventsAPI.API\CityEventsAPI.API.csproj", "{9C08F1A9-0A8D-4BC6-BBC8-727362EE9916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4FEB466-691B-4D0F-8F72-0876B77911CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FEB466-691B-4D0F-8F72-0876B77911CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FEB466-691B-4D0F-8F72-0876B77911CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FEB466-691B-4D0F-8F72-0876B77911CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C50B6EC7-E96C-45BA-B31C-2EFA68AA6AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50B6EC7-E96C-45BA-B31C-2EFA68AA6AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50B6EC7-E96C-45BA-B31C-2EFA68AA6AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50B6EC7-E96C-45BA-B31C-2EFA68AA6AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5AF4C3-785A-4CA3-9D4E-6E0814334A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5AF4C3-785A-4CA3-9D4E-6E0814334A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5AF4C3-785A-4CA3-9D4E-6E0814334A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5AF4C3-785A-4CA3-9D4E-6E0814334A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3A613D-28CE-42F4-B593-5C5BFEB6A7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3A613D-28CE-42F4-B593-5C5BFEB6A7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3A613D-28CE-42F4-B593-5C5BFEB6A7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3A613D-28CE-42F4-B593-5C5BFEB6A7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C08F1A9-0A8D-4BC6-BBC8-727362EE9916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C08F1A9-0A8D-4BC6-BBC8-727362EE9916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C08F1A9-0A8D-4BC6-BBC8-727362EE9916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C08F1A9-0A8D-4BC6-BBC8-727362EE9916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F76C308-5DB6-45FA-BE35-B93B65E43534}
+	EndGlobalSection
+EndGlobal

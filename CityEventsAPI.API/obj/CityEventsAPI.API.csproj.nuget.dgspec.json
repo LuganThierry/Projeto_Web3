@@ -1,0 +1,353 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.API\\CityEventsAPI.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.API\\CityEventsAPI.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.API\\CityEventsAPI.API.csproj",
+        "projectName": "CityEventsAPI.API",
+        "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.API\\CityEventsAPI.API.csproj",
+        "packagesPath": "C:\\Users\\lugan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lugan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Infra.IoC\\CityEventsAPI.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Infra.IoC\\CityEventsAPI.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.23.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Application\\CityEventsAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Application\\CityEventsAPI.Application.csproj",
+        "projectName": "CityEventsAPI.Application",
+        "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Application\\CityEventsAPI.Application.csproj",
+        "packagesPath": "C:\\Users\\lugan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lugan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Domain\\CityEventsAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Domain\\CityEventsAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Domain\\CityEventsAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Domain\\CityEventsAPI.Domain.csproj",
+        "projectName": "CityEventsAPI.Domain",
+        "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Domain\\CityEventsAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\lugan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lugan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Infra.Data\\CityEventsAPI.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Infra.Data\\CityEventsAPI.Infra.Data.csproj",
+        "projectName": "CityEventsAPI.Infra.Data",
+        "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Infra.Data\\CityEventsAPI.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\lugan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lugan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Domain\\CityEventsAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Domain\\CityEventsAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Infra.IoC\\CityEventsAPI.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Infra.IoC\\CityEventsAPI.Infra.IoC.csproj",
+        "projectName": "CityEventsAPI.Infra.IoC",
+        "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Infra.IoC\\CityEventsAPI.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\lugan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lugan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Application\\CityEventsAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Application\\CityEventsAPI.Application.csproj"
+              },
+              "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Domain\\CityEventsAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Domain\\CityEventsAPI.Domain.csproj"
+              },
+              "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Infra.Data\\CityEventsAPI.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Infra.Data\\CityEventsAPI.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Domain\bin\Debug\net6.0\CityEventsAPI.Domain.deps.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Domain\bin\Debug\net6.0\CityEventsAPI.Domain.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Domain\bin\Debug\net6.0\CityEventsAPI.Domain.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Domain\obj\Debug\net6.0\CityEventsAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Domain\obj\Debug\net6.0\CityEventsAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Domain\obj\Debug\net6.0\CityEventsAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Domain\obj\Debug\net6.0\CityEventsAPI.Domain.AssemblyInfo.cs
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Domain\obj\Debug\net6.0\CityEventsAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Domain\obj\Debug\net6.0\CityEventsAPI.Domain.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Domain\obj\Debug\net6.0\refint\CityEventsAPI.Domain.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Domain\obj\Debug\net6.0\CityEventsAPI.Domain.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Domain\obj\Debug\net6.0\ref\CityEventsAPI.Domain.dll

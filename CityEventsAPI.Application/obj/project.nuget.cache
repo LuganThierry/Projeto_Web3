@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3K5fXGGJEfm4/ruWvmbG4jW4M3C2lSG4GG/8FJXUFXfR62vDbLpbFP6ra9MLBIo7lDepw0gXAmGgTQTxse2uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Prog WEB3\\Projeto API\\CityEventsAPI\\CityEventsAPI.Application\\CityEventsAPI.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lugan\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\lugan\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\lugan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

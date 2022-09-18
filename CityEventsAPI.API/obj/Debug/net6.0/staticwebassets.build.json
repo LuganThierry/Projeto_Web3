@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lRi9Oryu8NamXnrkgV586WyLftXLo919CSyl7JezoQg=",
+  "Source": "CityEventsAPI.API",
+  "BasePath": "_content/CityEventsAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

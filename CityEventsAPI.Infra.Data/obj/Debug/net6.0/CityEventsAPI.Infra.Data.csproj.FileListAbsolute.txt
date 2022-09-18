@@ -1,0 +1,17 @@
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\bin\Debug\net6.0\CityEventsAPI.Infra.Data.deps.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\bin\Debug\net6.0\CityEventsAPI.Infra.Data.runtimeconfig.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\bin\Debug\net6.0\CityEventsAPI.Infra.Data.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\bin\Debug\net6.0\CityEventsAPI.Infra.Data.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\bin\Debug\net6.0\CityEventsAPI.Domain.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\bin\Debug\net6.0\CityEventsAPI.Domain.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\obj\Debug\net6.0\CityEventsAPI.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\obj\Debug\net6.0\CityEventsAPI.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\obj\Debug\net6.0\CityEventsAPI.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\obj\Debug\net6.0\CityEventsAPI.Infra.Data.AssemblyInfo.cs
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\obj\Debug\net6.0\CityEventsAPI.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\obj\Debug\net6.0\CityEventsAPI.Infra.Data.csproj.CopyComplete
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\obj\Debug\net6.0\CityEventsAPI.Infra.Data.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\obj\Debug\net6.0\refint\CityEventsAPI.Infra.Data.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\obj\Debug\net6.0\CityEventsAPI.Infra.Data.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\obj\Debug\net6.0\CityEventsAPI.Infra.Data.genruntimeconfig.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Prog WEB3\Projeto API\CityEventsAPI\CityEventsAPI.Infra.Data\obj\Debug\net6.0\ref\CityEventsAPI.Infra.Data.dll
